@@ -1,5 +1,5 @@
 #!/usr/biin/env bash
-
+# displays best school 10 times with a loop
 for ((x=0; x<10; x++))
 do
     echo "Best School"
